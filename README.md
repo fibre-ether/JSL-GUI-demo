@@ -3,6 +3,7 @@
 
 ## Steps:
 ### Build
+- cd demo
 - mvn compile
 - mvn package
 ### Run executable
