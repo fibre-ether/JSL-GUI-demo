@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class DAO {
-    static String dbPath = Paths.get("demo/db/user_db.sqlite").toString();
+    static String dbPath = Paths.get("db/user_db.sqlite").toString();
 
     /**
      * Connect to the test.sqlite database
